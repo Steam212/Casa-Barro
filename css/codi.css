@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+#marco {
+    display: table-row-group;
+    width: 5%;
+}
